@@ -1,0 +1,7 @@
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\bin\Debug\Project01_5093_0225_dotNet5780.exe.config
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\bin\Debug\Project01_5093_0225_dotNet5780.exe
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\bin\Debug\Project01_5093_0225_dotNet5780.pdb
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\obj\Debug\Project01_5093_0225_dotNet5780.csprojAssemblyReference.cache
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\obj\Debug\Project01_5093_0225_dotNet5780.csproj.CoreCompileInputs.cache
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\obj\Debug\Project01_5093_0225_dotNet5780.exe
+C:\Users\talya\Documents\מיני פרוייקט\הפרוייקט של טליה  ואפרת\Project01_5093_0225_dotNet5780\Project01_5093_0225_dotNet5780\obj\Debug\Project01_5093_0225_dotNet5780.pdb
